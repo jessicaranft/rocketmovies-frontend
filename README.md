@@ -1,12 +1,12 @@
 # Explorer - Stage 09 - Front-End for the RocketMovies Web App
 
-![preview](https://github.com/jessicaranft/Explorer-Stage09-RocketMovies/blob/main/.github/preview.png)
+![preview](https://github.com/jessicaranft/rocketmovies-frontend/blob/main/.github/preview-signin.png)
 
 ## Description
 React project for the Stage 09 challenge of the Rocketseat bootcamp.
 
 It's the front-end for the web app created with React, for the back-end developed in Stage 08:
-- https://github.com/jessicaranft/Explorer-Stage08-MovieNotes
+- https://github.com/jessicaranft/rocketmovies-backend
 
 ## Characteristics:
 - React + Vite;
