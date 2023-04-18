@@ -8,6 +8,9 @@ React project for the Stage 09 challenge of the Rocketseat bootcamp.
 It's the front-end for the web app created with React, for the back-end developed in Stage 08:
 - https://github.com/jessicaranft/rocketmovies-backend
 
+See it live here:
+- https://rocketmovies-frontend.netlify.app/
+
 ## Characteristics:
 - React + Vite;
 - Component elements;
